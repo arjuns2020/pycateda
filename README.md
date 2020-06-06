@@ -4,7 +4,7 @@
 # Import this -> from pandas_profiling import ProfileReport
 ![pycateda](https://miro.medium.com/max/658/1*0JSGjWN6mXIShXvkam-Q2A.png)
 
-# What does it do?
+# What does pycateda do?
 
 1. Read the data and returns a DataFrame
 2. Get a summary of basic descriptive analysis of the dataset
