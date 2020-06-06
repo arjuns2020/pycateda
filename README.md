@@ -6,16 +6,27 @@
 
 1. Read the data and returns a DataFrame
 2. Get a summary of basic descriptive analysis of the dataset
+
    A. Top 5 rows
+   
    B. Bottom 5 rows
+   
    C. The shape of the Data Frame
+   
    D. Missing Values in the data frame
+   
    E. Duplicate rows
+   
    F. Descriptive statistics for Numerical + Categorical columns
+   
    G. Number of unique values for each feature
+   
    H. The unique identifier
+   
    I. Prints Unique Value of Each feature
+   
    J. Relative frequency (%) of unique values or bins of numerical features
+   
 3. Get the Count of Null Values in each column
 4. Get Percentage % of missing values in each column
 5. Shows Missing Values Plots of the DataFrame
