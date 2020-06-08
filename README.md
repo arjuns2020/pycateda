@@ -31,10 +31,9 @@
 3. Get the Count of Null Values in each column
 4. Get Percentage % of missing values in each column
 5. Shows Missing Values Plots of the DataFrame
-6. Build a Profile Report of the entire dataset
-7. Check numerical variables in the DataFrame
-8. Check discrete variables in the Data Frame
-9. Check Continuous variables in the Data Frame
-10. Analyze continuous variables Visually in the Data Frame
-11. Analyze Transformed ( Log ) Continuous Variables
-12. Analyze Outliers in the data frame (Box Plots)
+6. Check numerical variables in the DataFrame
+7. Check discrete variables in the Data Frame
+8. Check Continuous variables in the Data Frame
+9. Analyze continuous variables Visually in the Data Frame
+10. Analyze Transformed ( Log ) Continuous Variables
+11. Analyze Outliers in the data frame (Box Plots)
