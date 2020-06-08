@@ -1,7 +1,6 @@
 # pycateda Python Package - A simplified Exploratory Data Analysis with less lines of code
 # Install pycateda package ->  pip install pycateda
-# Install Pandas-Profiling package -> pip install pandas-profiling
-# Import this -> from pandas_profiling import ProfileReport
+
 ![pycateda](https://miro.medium.com/max/658/1*0JSGjWN6mXIShXvkam-Q2A.png)
 
 # What does pycateda do?
