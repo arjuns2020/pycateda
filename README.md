@@ -1,5 +1,6 @@
 # pycateda Python Package - A simplified Exploratory Data Analysis with less lines of code
 # Install pycateda package ->  pip install pycateda
+# Blog -> https://bit.ly/pycateda-blog
 
 ![pycateda](https://miro.medium.com/max/658/1*0JSGjWN6mXIShXvkam-Q2A.png)
 
